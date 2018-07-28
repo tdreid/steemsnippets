@@ -1,8 +1,8 @@
 {
-  "name": "post",
+  "name": "resteem",
   "version": "1.0.0",
-  "description": "Posts an article to the steem blockchain",
-  "main": "post.js",
+  "description": "How to resteem a post",
+  "main": "vote.js",
   "dependencies": {
     "steem": "^0.6.7"
   },
